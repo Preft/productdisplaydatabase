@@ -1,0 +1,74 @@
+/* All */
+body {
+    background-color: black;
+}
+p{
+    color: black;
+}
+
+
+/*///////////////////////////////// Index /////////////////////////////*/
+
+.navbar-nav a:hover{
+    background-color: green;
+    color: white !important;
+    border-radius: 20px;
+}
+
+.index-main-content {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.index-item-content{
+    padding: 5px;
+}
+
+.index-item-content-link-padding {
+    padding: 5px;
+}
+
+.index-item-content-inner{
+    padding: 0px;
+    width: 100%;
+}
+
+.index-item-content div:hover div{
+    background-color: black;
+    color: white !important;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+.index-item-link {
+    text-decoration: none !important;
+}
+
+.index-item-link a:hover{
+    text-decoration: none !important;
+}
+
+.index-item-text-content {
+    color: black;
+}
+
+.index-img {
+    height: 190px;
+    width: 190px;
+}
+
+/*///////////////////////////////// Nav /////////////////////////////*/
+
+nav {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.navbar-nav a:hover{
+    background-color: green;
+    color: white !important;
+    border-radius: 10px;
+}
