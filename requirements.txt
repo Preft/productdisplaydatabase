@@ -24,12 +24,7 @@ citipy==0.0.5
 click==7.1.2
 colorama==0.4.3
 comtypes==1.1.7
-conda==4.8.5
-conda-build==3.18.11
-conda-package-handling==1.7.0
-conda-verify==3.4.2
 Flask==1.1.2
-Flask-PyMongo==2.3.0
 partd==1.1.0
 path==13.1.0
 pathlib2==2.3.5
