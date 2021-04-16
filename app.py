@@ -1,7 +1,7 @@
 from flask import Flask, render_template, jsonify, request, redirect, url_for
 import sqlite3 as sql
 import json
-from bson.json_util import dumps
+#from bson.json_util import dumps
 
 def update_task(conn, task):
     somesql = '''UPDATE products SET likes = likes + 1 WHERE id = ?'''
